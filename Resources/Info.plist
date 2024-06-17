@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>CodeSnapShot</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon.png</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.code.snapshot1</string>
+	<key>CFBundleName</key>
+	<string>CodeSnapShot</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>MinimumOSVersion</key>
+	<string>14.0</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Our app needs access to your photo library to save snapshots.</string>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UILaunchScreen</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>
